@@ -8,4 +8,5 @@ ddd = 'dddddddd'
 ppp = 'sds'
 mmm = '4'
 nn =5
+oo = 222
 print('Today is 2023.2.13')
